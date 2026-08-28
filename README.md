@@ -24,13 +24,14 @@ All codes generated the key findings of this manuscript can be found in this rep
 
 The datasets generated and/or analyzed during the current study are not publicly available due to participant confidentiality but are available from the corresponding author on reasonable request.
 
-## Cite our work 
-
+## Citation
 If you use this work, please cite:
-
+ 
+```bibtex
 @article{covid_rche_antibody_landscape,
-  title={Infection Prevention in Residential Care Homes for the Elderly: Insights from the Antibody Landscape of COVID-19 after an Explosive Outbreak},
-  author={Wan In WEI, Pui Chung Denise CHAN, Edward Braddon MCNEIL, Steven RILEY, Julian TANG, Samuel Yeung Shan WONG, Kin On KWOK},
-  journal={Journal Name},
-  year={202X}
+title={Infection Prevention in Residential Care Homes for the Elderly: Insights from the Antibody Landscape of COVID-19 after an Explosive Outbreak},
+author={Wan In WEI, Pui Chung Denise CHAN, Edward Braddon MCNEIL, Steven RILEY, Julian TANG, Samuel Yeung Shan WONG, Kin On KWOK},
+journal={Journal Name},
+year={202X}
 }
+```
