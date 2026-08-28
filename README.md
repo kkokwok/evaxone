@@ -18,4 +18,4 @@ By integrating serological testing results with residents' vaccination and infec
 
 ## Data 
 
-The data can be found under this resporsitory
+The datasets generated and/or analyzed during the current study are not publicly available due to participant confidentiality but are available from the corresponding author on reasonable request.
