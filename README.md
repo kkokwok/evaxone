@@ -16,6 +16,10 @@ By integrating serological testing results with residents' vaccination and infec
 - Generalized additive regression analysis showed that recent infection following vaccination was associated with stronger neutralizing antibody responses than earlier infection profiles, even after accounting for the time elapsed since the last immunologic exposure.
 - Cross-reactivity between Omicron BA.2 and BA.4/5 variants differed according to serostatus, highlighting
 
+## Code
+
+All codes generated the key findings of this manuscript can be found in this repository
+
 ## Data 
 
 The datasets generated and/or analyzed during the current study are not publicly available due to participant confidentiality but are available from the corresponding author on reasonable request.
