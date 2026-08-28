@@ -15,3 +15,7 @@ By integrating serological testing results with residents' vaccination and infec
 - Residents with **hybrid immunity** (vaccination plus infection) demonstrated substantially higher nAb levels than individuals with vaccination-only or infection-only immunity.
 - Generalized additive regression analysis showed that recent infection following vaccination was associated with stronger neutralizing antibody responses than earlier infection profiles, even after accounting for the time elapsed since the last immunologic exposure.
 - Cross-reactivity between Omicron BA.2 and BA.4/5 variants differed according to serostatus, highlighting
+
+## Data 
+
+The data can be found under this resporsitory
